@@ -8,7 +8,6 @@
 I'm Python Backend Developer with a primary focus on FastAPI for building scalable APIs and services. Also have hands-on experience with Vue.js and Java. These days I'm focused on going deeper with the technologies I already use, and also exploring developing of local LLMs and AI agents.
 
 ## Tech stack
-
 **Languages:** <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=1e1e1e" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/-Java-1b6ad1?style=flat-square&logo=Java&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="C" src="https://img.shields.io/badge/-C-1b6ad1?style=flat-square&logo=C&logoColor=white" />
 
 **Backend:** <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" /> <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" /> <img alt="aiogram" src="https://img.shields.io/badge/-aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /> <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" /> <img alt="NATS" src="https://img.shields.io/badge/-NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" /> <img alt="pytest" src="https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
@@ -21,3 +20,11 @@ I'm Python Backend Developer with a primary focus on FastAPI for building scalab
 
 ### On my radar
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" /> <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" /> <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white" /> 
+
+## Projects
+- **[Kupio](https://github.com/kupio-app)** — Marketplace platform with a FastAPI backend (PostgreSQL, Redis, Stripe payments, WebSocket chat, FCM push notifications) and a Kotlin Multiplatform mobile app for Android & iOS
+
+## Reach me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadym-popovych-29a687240)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/vadym_vv)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:popovych.vadim.dev@gmail.com)
